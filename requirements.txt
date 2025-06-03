@@ -5,6 +5,4 @@ redis
 sentence-transformers
 ollama
 fitz
-os
-time
-re
+streamlit
